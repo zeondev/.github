@@ -1,5 +1,5 @@
-<h1 style="align-text:center;">Hello! We are Zeon</h1>
-<h3 style="align-text:center;">We are a group of developers from all across the globe.</h3>
+<h1 align="center">Hello! We are Zeon</h1>
+<h3 align="center">We are a group of developers from all across the globe.</h3>
 
 We are currently working on a few projects, here are some of them
 - Saturn (In early stages)
