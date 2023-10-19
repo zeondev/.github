@@ -11,6 +11,6 @@ How can i reach you?
 - You can reach us through a few contact ways.
   - Email: hello@zeon.dev (not checked frequently)
   - Discord
-    - Kat: @Kat21#0021
-    - Lap : @Lap#1234
+    - Kat: @kat21
+    - Lap : @itslap
     - [Discord Server](https://discord.gg/u3wxD9x7qD)
